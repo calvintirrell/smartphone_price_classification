@@ -6,6 +6,8 @@ Taking into account various aspects of hardware specifications such as screen si
 [This project idea is from this Kaggle competition.](https://www.kaggle.com/iabhishekofficial/mobile-price-classification)
 
 To view the actual Jupyter Lab that I have been working in - go to the 'Jupyter Notebooks' folder and select the file: 'smartphone_pricing.ipynb'.
+If you see an error while trying to see the contents of the Jupyter Notebook, click the 'Raw' button, let it load and then click the 'back arrow'
+in your browser to go back to the Jupyter Notebook and it should be loaded and viewable. There is an issue with Github displaying these Notebooks.
 
 The conclusion I came up with is that the best model to use for this problem is the KNearestNeighbors model.
 It had similar accuracy performance to the linear regression model and better F1 Score compared to the GradientBoosting Classifier model.
